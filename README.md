@@ -9,3 +9,7 @@ This is a repository of my learning about machine learning and other different t
 ## Knowledge
 
 1. Optimizers in Neural Network [Link](Optimizer.md)
+
+## Awesome papers
+
+1. **Capsule Network:** CapsNet is a type of neural network that uses bunch of neurons to represent the internal structure of an image. It overcomes the shortcomings of the CNN. [Paper](https://arxiv.org/pdf/1710.09829.pdf)
