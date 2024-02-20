@@ -38,6 +38,10 @@ The script will load the dataset, preprocess the data, build a neural network mo
 
 ## Results
 
+We ran different algorithms to improve upon the accuracy over the Fashion MNIST.
+
+### Basic Neural Network
+
 The script uses a neural network with a specific architecture:
 
 - Input Layer: Flatten layer for flattening the 28x28 images.
@@ -46,6 +50,26 @@ The script uses a neural network with a specific architecture:
 - Output Layer: Dense layer with 10 units and Softmax activation.
 
 The model is compiled using the Adam optimizer and sparse categorical crossentropy loss. After training for 100 epochs, the script evaluates the model on the test data and plots the training/validation loss and accuracy.
+
+The accuracy achieved in this case is 88%
+
+### CNN
+
+The model uses following architecture:
+
+```python
+model = models.Sequential()
+model.add(layers.Conv2D(49, (3,3), activation='relu', input_shape=(28, 28, 1)))
+model.add(layers.MaxPool2D((2,2)))
+model.add(layers.Conv2D(64, (3,3), activation='relu'))
+model.add(layers.MaxPool2D((2,2)))
+model.add(layers.Conv2D(64, (3,3), activation='relu'))
+model.add(layers.Flatten())
+model.add(layers.Dense(64, activation='relu'))
+model.add(layers.Dense(10, activation='softmax'))
+```
+
+The trained model gives an accuracy of 90% over the test data.
 
 ## Conclusion
 
