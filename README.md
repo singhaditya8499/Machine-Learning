@@ -4,11 +4,11 @@ This is a repository of my learning about machine learning and other different t
 
 ## Datasets
 
-1. [Fashion-MNIST](/Fashion-MNIST)
+1. [Fashion-MNIST](datsets/Fashion-MNIST)
 
 ## Knowledge
 
-1. Optimizers in Neural Network [Link](Optimizer.md)
+1. Optimizers in Neural Network [Link](concepts/Optimizer.md)
 
 ## Awesome papers
 
