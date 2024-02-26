@@ -4,7 +4,9 @@ This is a repository of my learning about machine learning and other different t
 
 ## Datasets
 
-1. [Fashion-MNIST](datsets/Fashion-MNIST)
+1. [Fashion-MNIST](datasets/Fashion-MNIST)
+2. [AutoMPG](datasets/Auto_MPG)
+3. [Housing Prices](datasets/Housing-Prices)
 
 ## Knowledge
 
