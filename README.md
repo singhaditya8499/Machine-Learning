@@ -12,6 +12,7 @@ This is a repository of my learning about machine learning and other different t
 
 1. Optimizers in Neural Network [Link](concepts/Optimizer.md)
 2. Backpropagation [Link](concepts/Backpropagation/README.md)
+3. Broadcasting Semantics [Link](concepts/Broadcasting_semantics.md)
 
 ## Awesome papers
 
