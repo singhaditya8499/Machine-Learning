@@ -20,3 +20,4 @@ This is a repository of my learning about machine learning and other different t
 2. **Byte level encoding:** Encoding is very important when it comes to LLMs. This GPT-2 paper introduces the concept of the byte level encoding algorithm. [Paper](https://insightcivic.s3.us-east-1.amazonaws.com/language-models.pdf)
 3. **Transformers:** [Paper](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
 4. **Backpropagation:** Learning representation by backpropagating errors [Paper](https://www.cs.toronto.edu/~hinton/absps/naturebp.pdf)
+5. **Batch normalization:** Batch normalization is a method used to make training of artificial neural networks faster and more stable. It is a technique used to normalize the inputs of each layer in such a way that they have a mean output activation of zero and a standard deviation of one. [Paper](https://arxiv.org/pdf/1502.03167.pdf)
