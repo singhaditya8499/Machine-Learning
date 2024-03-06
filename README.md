@@ -24,4 +24,4 @@ This is a repository of my learning about machine learning and other different t
 
 ## Projects
 
-1. **Covid 19 tweets classification:** Text classification tasks related to tweets about the Coronavirus. The data has been gathered from Twitter, and manual tagging has been performed on the tweets. To protect privacy, the names and usernames have been replaced with codes. [Link](projects/Coronavirus_tweet_prediction)
+1. **Covid 19 tweets classification:** Text classification tasks related to tweets about the Coronavirus. The data has been gathered from Twitter, and manual tagging has been performed on the tweets. To protect privacy, the names and usernames have been replaced with codes. [Link](Projects/Coronavirus_tweet_prediction)
