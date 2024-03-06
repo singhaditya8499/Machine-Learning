@@ -21,3 +21,7 @@ This is a repository of my learning about machine learning and other different t
 3. **Transformers:** [Paper](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
 4. **Backpropagation:** Learning representation by backpropagating errors [Paper](https://www.cs.toronto.edu/~hinton/absps/naturebp.pdf)
 5. **Batch normalization:** Batch normalization is a method used to make training of artificial neural networks faster and more stable. It is a technique used to normalize the inputs of each layer in such a way that they have a mean output activation of zero and a standard deviation of one. [Paper](https://arxiv.org/pdf/1502.03167.pdf)
+
+## Projects
+
+1. **Covid 19 tweets classification:** Text classification tasks related to tweets about the Coronavirus. The data has been gathered from Twitter, and manual tagging has been performed on the tweets. To protect privacy, the names and usernames have been replaced with codes. [Link](projects/Coronavirus_tweet_prediction)
